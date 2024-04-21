@@ -1,7 +1,7 @@
 ![DDOS](https://www.cloudflare.com/img/learning/ddos/what-is-a-ddos-botnet/ddos-botnet-attack-cropped.png)
 ---
 
-# DDos---Telegram-BOT
+# DDOS-Telegram-BOT
 
 ## Overview
 
@@ -25,7 +25,7 @@ This Python script implements an enhanced DDoS (Distributed Denial of Service) a
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/Mustafa1p/DDos---Telegram-BOT.git
+    git clone https://github.com/Mustafa1p/DDOS-Telegram-BOT.git
     ```
 
 2. Obtain your Telegram API token and replace `YOUR_TOKEN_HERE` in the script with your actual token.
@@ -55,3 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Feel free to customize the README further to include additional information or formatting as needed.
+Developer By MUSTAFA IP 
