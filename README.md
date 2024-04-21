@@ -1,5 +1,4 @@
-Here's an improved version of the README.md file for your GitHub repository:
-
+![DDOS](https://www.cloudflare.com/img/learning/ddos/what-is-a-ddos-botnet/ddos-botnet-attack-cropped.png)
 ---
 
 # DDos---Telegram-BOT
